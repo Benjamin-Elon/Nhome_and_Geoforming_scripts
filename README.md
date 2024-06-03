@@ -8,13 +8,13 @@ I like the idea of geodesic domes. So affordable and easy to set up. Downside: c
 
 Idea: What if we used a steel geodesic frame as a trellis to grow willow over the dome home making a greendome, protecting from the elements? And combine this with the squash trick and enhance using the strong stack effect of domed structures. Max cooling and totally free. 
 
-I want free heating too. And free compost. A gardener can never have enough compost. This will make enough compost and more. Wood chips release massive thermal energy. Apply tried and true composting tricks to produce a self-aerating, quick-start wood fuel cell. Chipdrop.
+I want free heating too. And free compost. Wood chips release massive thermal energy. Apply tried and true composting tricks to produce a self-aerating, quick-start wood fuel cell for radiant heating. Chipdrop. Now it's free. Just scoop out your finished compost. There's a saying that a gardener can never have enough compost. Now; always too much compost. 10,000 dollars of compost is enough.
 
-I watched a video from pvc domes ( good stuff - functional, not aesthetic ), where they wrap a dome with screen and use Latex modified concrete ( LMC ) to form a super-thin shell dome for real cheap. Looks good. How could I make this better? 
+I watched a video from pvc domes ( good stuff - functional, not aesthetic ), where they wrap a dome with screen and use Latex modified concrete ( LMC ) to form a super-thin shell dome for real cheap. Looks ok. How could I make this better? 
 
-Downsides: It isn't flexible, it isn't insulated, it isn't finished, and it isn't up to code. These are the tough parts. Must find solutions. I learn later that there are also issues with force transfer that make engineering difficult for existing thinshell structures.
+Downsides: It isn't versatile, it isn't insulated, it isn't finished, and it isn't up to code. These are the tough parts. Must find solutions. I learn later that there are also issues with force transfer that make engineering difficult for most thinshell structures.
 
-Learn the all the relevant building codes. Then, read the BC builders handbook. Good enough. 
+Learn the all the relevant building codes. Then, read the BC builders handbook. Good enough. Now I know exactly why houses are so expensive.
 
 Research dome manufacuters. Now I understand the general challenges that come with existing types of dome structures. 
 
@@ -32,7 +32,7 @@ Click. Heck yeah. Found it.
 
 GeoForming.
 
-Good. Maybe good enough.
+Good. Maybe good enough, but probably not.
 
 Corrugated geoForming.
 
@@ -46,4 +46,4 @@ Smash ideas together repeatedly.
 
 Converged.
 
-A technique for manufacturing arbitrarily large, prefabricated, snap together geoform reinforcement sections that enables simple, rapid manufactuing and easy transport and quick assembly using materials available anywhere.
+A technique for manufacturing arbitrarily large, prefabricated, snap together geoform reinforcement sections, enabling simple, rapid manufactuing, easy transport and quick assembly using materials available anywhere.
