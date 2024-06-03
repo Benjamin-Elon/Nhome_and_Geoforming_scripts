@@ -1,6 +1,6 @@
 I highly recommend keeping an idea journal to any person who enjoys creating. This was a process of hundreds of ideas, more than I could ever process without a process. Flow states are key for creativity and mandatory boredom is key to maximally creative flow states. Many long bike rides towing ye ole babies.
 
-So I had an idea last year while I was setting up my plant nursery - use the incredible cooling power of squash leaves to cool structures, leveraging the stack effect. I previously planted squash around a teepee, and also felt how much those huge leaves cooled burning hot concrete. 
+So I had an idea last year while setting up my plant nursery - use the incredible cooling power of squash leaves to cool structures, leveraging the stack effect. I previously planted squash around a teepee, and also felt how much those huge leaves cooled burning hot concrete. 
 
 But the some time passed and I moved to Langley from Tzfat. Too busy to get started.
 
