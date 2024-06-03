@@ -4,9 +4,11 @@ So I had an idea last year while I was setting up my plant nursery - use the inc
 
 But the some time passed and I moved to Langley from Tzfat. Too busy to get started.
 
-I pike the idea of geodesic dome. So affordable and easy to set up. But covers for steel frame domes degrade quickly and aren't well insulating. 
+I like the idea of geodesic domes. So affordable and easy to set up. Downside: covers for steel frame domes degrade quickly and have low r-value. 
 
-What if we used a steel geodesic frame as a trellis to grow willow over the dome home making a greendome? And combine this with the squash and enhance using the strong stack effect of domed structures. Max cooling and totally free. 
+Idea: What if we used a steel geodesic frame as a trellis to grow willow over the dome home making a greendome, protecting from the elements? And combine this with the squash trick and enhance using the strong stack effect of domed structures. Max cooling and totally free. 
+
+I want free heating too. And free compost. A gardener can never have enough compost. This will make enough compost and more. Wood chips release massive thermal energy. Apply tried and true composting tricks to produce a self-aerating, quick-start wood fuel cell. Chipdrop.
 
 I watched a video from pvc domes ( good stuff - functional, not aesthetic ), where they wrap a dome with screen and use Latex modified concrete ( LMC ) to form a super-thin shell dome for real cheap. Looks good. How could I make this better? 
 
@@ -26,13 +28,15 @@ More design iterations.
 
 Design is converging on a solution.
 
-Click. Heck yeah. Found it. GeoForming.
+Click. Heck yeah. Found it.
+
+GeoForming.
 
 Good. Maybe good enough.
 
 Corrugated geoForming.
 
-Ok. That was pretty strong. Good enough. 
+Ok. That was surprisingly strong in all the right ways. Good enough. 
 
 Dendritic geoForming.
 
